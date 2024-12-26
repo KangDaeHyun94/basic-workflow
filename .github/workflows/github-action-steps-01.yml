@@ -1,5 +1,5 @@
 name: Steps workflow
-on: push
+on: workflow_dispatch
 jobs:
   keep-going-work:
     runs-on: ubuntu-latest
